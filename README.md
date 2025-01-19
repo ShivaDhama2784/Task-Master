@@ -52,5 +52,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 - **Due Dates**: Allow users to set due dates for tasks and receive reminders.
 - **Mobile Responsiveness**: Improve the mobile experience for users accessing the application on smaller screens.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
